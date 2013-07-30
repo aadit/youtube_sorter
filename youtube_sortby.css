@@ -1,0 +1,25 @@
+
+.youtube_sortby_heading
+{
+	margin-top:8px;
+	margin-bottom:8px;
+	font-size:15px;
+}
+
+.youtube_sortby_button
+{
+	margin-right:10px;
+	font-size:14px;
+}
+
+.youtube_sortby_holder
+{
+	margin-bottom:5px;
+}
+
+.youtube_sortby_selected
+{
+	background:#eee;
+	padding:5px;
+	border-radius:5px;
+}
